@@ -7,3 +7,6 @@ If your fov is in-game, Let's take a look at "C\user\-your user name-\saved game
 It file is text format.
 
 After that, write it into an autoexec.cfg file or something similar.
+
+Also, I don't do restoration unless I feel like it.
+I used DeepL for the translation.
